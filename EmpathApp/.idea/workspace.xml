@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df7032c7-7786-4cbf-9e71-ee40b5dc1bb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assetforceData.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EmotionAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EmpathApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VoiceRecoder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cTcLakzD3KzWab9dYQGw5IAGBk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EmotionAnalysis">
+    <configuration name="EmotionAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.EmotionAnalysis" />
+      <module name="EmpathApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpathApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.EmpathApp" />
+      <module name="EmpathApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoiceRecoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.VoiceRecoder" />
+      <module name="EmpathApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmotionAnalysis" />
+        <item itemvalue="Application.EmpathApp" />
+        <item itemvalue="Application.VoiceRecoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df7032c7-7786-4cbf-9e71-ee40b5dc1bb8" name="Default Changelist" comment="" />
+      <created>1590047258457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590047258457</updated>
+      <workItem from="1590047259714" duration="25746000" />
+      <workItem from="1590555971914" duration="1494000" />
+      <workItem from="1590730335248" duration="3827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="65" key="#Project_Structure" timestamp="1590047285232">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state x="466" y="65" key="#Project_Structure/0.23.1680.991@0.23.1680.991" timestamp="1590047285232" />
+    <state x="503" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590730370298">
+      <screen x="0" y="23" width="1680" height="989" />
+    </state>
+    <state x="503" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.989@0.23.1680.989" timestamp="1590730370298" />
+    <state x="503" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.991@0.23.1680.991" timestamp="1590073155888" />
+    <state x="747" y="278" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590105522474">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state x="747" y="278" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1680.991@0.23.1680.991" timestamp="1590105522474" />
+    <state width="1440" height="347" key="GridCell.Tab.0.bottom" timestamp="1590973199909">
+      <screen x="0" y="23" width="1680" height="992" />
+    </state>
+    <state width="1438" height="278" key="GridCell.Tab.0.bottom/0.23.1680.989@0.23.1680.989" timestamp="1590731492950" />
+    <state width="1588" height="650" key="GridCell.Tab.0.bottom/0.23.1680.990@0.23.1680.990" timestamp="1590732964484" />
+    <state width="1438" height="354" key="GridCell.Tab.0.bottom/0.23.1680.991@0.23.1680.991" timestamp="1590138855094" />
+    <state width="1440" height="347" key="GridCell.Tab.0.bottom/0.23.1680.992@0.23.1680.992" timestamp="1590973199909" />
+    <state width="1438" height="264" key="GridCell.Tab.0.bottom/0.23.1680.993@0.23.1680.993" timestamp="1590562717332" />
+    <state width="1440" height="347" key="GridCell.Tab.0.center" timestamp="1590973199908">
+      <screen x="0" y="23" width="1680" height="992" />
+    </state>
+    <state width="1438" height="278" key="GridCell.Tab.0.center/0.23.1680.989@0.23.1680.989" timestamp="1590731492949" />
+    <state width="1588" height="650" key="GridCell.Tab.0.center/0.23.1680.990@0.23.1680.990" timestamp="1590732964484" />
+    <state width="1438" height="354" key="GridCell.Tab.0.center/0.23.1680.991@0.23.1680.991" timestamp="1590138855093" />
+    <state width="1440" height="347" key="GridCell.Tab.0.center/0.23.1680.992@0.23.1680.992" timestamp="1590973199908" />
+    <state width="1438" height="264" key="GridCell.Tab.0.center/0.23.1680.993@0.23.1680.993" timestamp="1590562717331" />
+    <state width="1440" height="347" key="GridCell.Tab.0.left" timestamp="1590973199908">
+      <screen x="0" y="23" width="1680" height="992" />
+    </state>
+    <state width="1438" height="278" key="GridCell.Tab.0.left/0.23.1680.989@0.23.1680.989" timestamp="1590731492949" />
+    <state width="1588" height="650" key="GridCell.Tab.0.left/0.23.1680.990@0.23.1680.990" timestamp="1590732964483" />
+    <state width="1438" height="354" key="GridCell.Tab.0.left/0.23.1680.991@0.23.1680.991" timestamp="1590138855093" />
+    <state width="1440" height="347" key="GridCell.Tab.0.left/0.23.1680.992@0.23.1680.992" timestamp="1590973199908" />
+    <state width="1438" height="264" key="GridCell.Tab.0.left/0.23.1680.993@0.23.1680.993" timestamp="1590562717331" />
+    <state width="1440" height="347" key="GridCell.Tab.0.right" timestamp="1590973199908">
+      <screen x="0" y="23" width="1680" height="992" />
+    </state>
+    <state width="1438" height="278" key="GridCell.Tab.0.right/0.23.1680.989@0.23.1680.989" timestamp="1590731492950" />
+    <state width="1588" height="650" key="GridCell.Tab.0.right/0.23.1680.990@0.23.1680.990" timestamp="1590732964484" />
+    <state width="1438" height="354" key="GridCell.Tab.0.right/0.23.1680.991@0.23.1680.991" timestamp="1590138855094" />
+    <state width="1440" height="347" key="GridCell.Tab.0.right/0.23.1680.992@0.23.1680.992" timestamp="1590973199908" />
+    <state width="1438" height="264" key="GridCell.Tab.0.right/0.23.1680.993@0.23.1680.993" timestamp="1590562717332" />
+    <state width="1438" height="325" key="GridCell.Tab.1.bottom" timestamp="1590198966374">
+      <screen x="0" y="23" width="1680" height="993" />
+    </state>
+    <state width="1438" height="325" key="GridCell.Tab.1.bottom/0.23.1680.991@0.23.1680.991" timestamp="1590104163030" />
+    <state width="1438" height="325" key="GridCell.Tab.1.bottom/0.23.1680.993@0.23.1680.993" timestamp="1590198966374" />
+    <state width="1438" height="325" key="GridCell.Tab.1.center" timestamp="1590198966373">
+      <screen x="0" y="23" width="1680" height="993" />
+    </state>
+    <state width="1438" height="325" key="GridCell.Tab.1.center/0.23.1680.991@0.23.1680.991" timestamp="1590104163030" />
+    <state width="1438" height="325" key="GridCell.Tab.1.center/0.23.1680.993@0.23.1680.993" timestamp="1590198966373" />
+    <state width="1438" height="325" key="GridCell.Tab.1.left" timestamp="1590198966373">
+      <screen x="0" y="23" width="1680" height="993" />
+    </state>
+    <state width="1438" height="325" key="GridCell.Tab.1.left/0.23.1680.991@0.23.1680.991" timestamp="1590104163029" />
+    <state width="1438" height="325" key="GridCell.Tab.1.left/0.23.1680.993@0.23.1680.993" timestamp="1590198966373" />
+    <state width="1438" height="325" key="GridCell.Tab.1.right" timestamp="1590198966373">
+      <screen x="0" y="23" width="1680" height="993" />
+    </state>
+    <state width="1438" height="325" key="GridCell.Tab.1.right/0.23.1680.991@0.23.1680.991" timestamp="1590104163030" />
+    <state width="1438" height="325" key="GridCell.Tab.1.right/0.23.1680.993@0.23.1680.993" timestamp="1590198966373" />
+    <state x="516" y="145" key="Maven.ArtifactSearchDialog" timestamp="1590069743751">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state x="516" y="145" key="Maven.ArtifactSearchDialog/0.23.1680.991@0.23.1680.991" timestamp="1590069743751" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/VoiceRecoder.java</url>
+          <line>14</line>
+          <properties field="line" class="main.java.VoiceRecoder" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
